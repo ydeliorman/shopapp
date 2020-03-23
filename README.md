@@ -1,16 +1,22 @@
 # shopapp
 
-Shopping application app
+Shopping App demonstrates state management principles on Flutter.
+
+- User can list items.
+- User can add a item to cart.
+- User can add/edit items.
+
+![Alt text](https://github.com/ydeliorman/shopapp/blob/master/images/opening_screen.PNG)
+![Alt text](https://github.com/ydeliorman/shopapp/blob/master/images/order_screen.PNG)
+![Alt text](https://github.com/ydeliorman/shopapp/blob/master/images/edit_item.PNG)
+![Alt text](https://github.com/ydeliorman/shopapp/blob/master/images/drawer.PNG)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In order to run this project;
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Idea Setup](https://flutter.dev/docs/get-started/editor?tab=androidstudio)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+steps must be done.
