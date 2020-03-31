@@ -39,3 +39,4 @@ flutter:
         - asset: assets/fonts/Roboto-Medium.ttf
   assets:
     - assets/
+    - assets/images/product-placeholder.png
